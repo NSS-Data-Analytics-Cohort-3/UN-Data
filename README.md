@@ -2,7 +2,7 @@
 
 ##### In-class practice 1  
 
-1. Create a `data` folder in your local project repository.  
+1. Create a `data` and a `notebooks` folder in your local project repository.  
 
 2. Download these two CSV files and place them in the data folder:
 
